@@ -1,0 +1,26 @@
+# Data
+data/raw/
+data/processed/
+*.csv
+
+# Models
+models/*.pkl
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE & Editor
+.vscode/
+.idea/
+
+# Streamlit & logs
+.streamlit/
+logs/
