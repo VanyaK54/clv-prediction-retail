@@ -1,0 +1,22 @@
+# Core Data & ML
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Web App (Optional)
+streamlit
+
+# Azure Integration
+python-dotenv
+azure-storage-blob
+pyodbc
+
+# Notebook Support
+jupyter
+notebook
